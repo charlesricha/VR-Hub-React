@@ -4,7 +4,7 @@
 The project is part of my 100days of code challenge
 
 
-![App Screenshot](/screenshot.png)
+![App Screenshot](/screenshot.PNG)
 
 # View Live Site
 
