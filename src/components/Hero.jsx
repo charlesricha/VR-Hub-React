@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 
 const Hero = () => {
   return (
-   <section className='bg-white/30 backdrop-blur-sm rounded-3xl p-4 flex flex-col'>
+   <section className='bg-white/30 backdrop-blur-sm rounded-3xl p-4 flex flex-col h-full'>
         <div className="navbar">
             <Navbar/>
         </div>
