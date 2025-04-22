@@ -13,3 +13,4 @@ https://vr-hub-one.vercel.app/
 
 # React + Vite
 
+Built using React Js powered with vite and Tailwind CSS
